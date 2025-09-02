@@ -11,6 +11,7 @@ public class InputSum {
         int one=sc.nextInt();
         int two=sc.nextInt();
         sum(one,two);
+        sc.close();
     }
     
 }
