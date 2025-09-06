@@ -2,7 +2,7 @@ public class Arrays {
     public static void main(String args[]){
         //Defining an array in java
         //type[]arrayName =new type[size];
-        // int marks[]={97,98,99};   This is also write statement not required line 8 To 12
+        // int marks[]={97,98,99};   This is also write statement not required line 6 To 9
         int[] marks =new int [3];
         marks[0]=97;
         marks[1]=98;
